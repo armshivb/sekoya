@@ -117,6 +117,8 @@ h1, h2, h3, h4 { font-family: var(--display); font-weight: 700; line-height: 1.0
 
 .btn--gold { background: var(--gold); color: var(--forest); box-shadow: 0 6px 18px rgba(242,183,5,0.28); }
 .btn--gold:hover { background: var(--gold-2); box-shadow: 0 10px 26px rgba(242,183,5,0.38); transform: translateY(-2px); }
+.nav__cta .btn--gold { background: #F07B22; color: var(--white); box-shadow: 0 6px 18px rgba(240,123,34,0.30); }
+.nav__cta .btn--gold:hover { background: #E06A12; box-shadow: 0 10px 26px rgba(240,123,34,0.40); transform: translateY(-2px); }
 
 .btn--forest { background: var(--forest); color: var(--cream-2); }
 .btn--forest:hover { background: var(--forest-2); transform: translateY(-2px); box-shadow: var(--sh); }
